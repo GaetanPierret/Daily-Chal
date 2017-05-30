@@ -1,0 +1,32 @@
+/* style.css */
+body{
+  background: #fff;
+  color: #000;
+  font-size: 16px;
+  font-family: Calibri;
+}
+header{
+  font-family: 'Raleway', sans-serif;
+  color: black;
+  font-weight: lighter;
+  font-size: 40px;
+}
+h1{
+  font-family: 'Kumar One', cursive;
+  color: blue;
+  font-weight: lighter;
+  font-size: 30px;
+}
+h2 {
+  font-family: Courier;
+  color: black;
+  font-weight: lighter;
+  font-size: 30px;
+}
+a {
+  color: yellow;
+}
+a:hover {
+  text-decoration: none;
+  color: purple;
+}
